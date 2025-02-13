@@ -1,4 +1,6 @@
-![6961](https://github.com/user-attachments/assets/d1792b2d-4b99-4751-be79-2774df05dde8)
+![newimg](https://github.com/user-attachments/assets/f790ca5f-d5fc-48fd-90ee-7c3a846bd739)
+
+
 
 
 <h1 align="center">🚀 Hi, I'm Rohan Parveag!</h1>
