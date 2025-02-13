@@ -1,4 +1,5 @@
-![19362653](https://github.com/user-attachments/assets/e2fd25cf-d15b-4f77-9775-39dc3aea1641)
+![6961](https://github.com/user-attachments/assets/d1792b2d-4b99-4751-be79-2774df05dde8)
+
 
 <h1 align="center">🚀 Hi, I'm Rohan Parveag!</h1>
 <h3 align="center">A passionate Python Developer & Future DevOps Engineer</h3>
