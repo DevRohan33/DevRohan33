@@ -29,7 +29,7 @@
 <a href="https://stackoverflow.com/users/user:26374111" target="blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
 </a>
-<a href="https://instagram.com/__rohan_26_" target="blank">
+<a href="https://instagram.com/un_favv__" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>
