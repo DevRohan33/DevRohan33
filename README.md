@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevRohan33&label=engineers%20visited&color=7c3aed&style=flat" />
-  <a href="https://rohanparveag.online"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel"/></a>
+  <a href="https://rohanparveag.n"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel"/></a>
   <a href="https://linkedin.com/in/skrohanparveag"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat&logo=linkedin"/></a>
   <a href="mailto:skrohanparveag@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat&logo=gmail"/></a>
 </p>
