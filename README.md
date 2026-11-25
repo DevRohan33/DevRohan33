@@ -1,11 +1,15 @@
 <!-- ═════════════════════════  HEADER  ═════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=SK%20Rohan%20Parveag&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Backend%20%26%20AI%20Engineer&descAlignY=57&descSize=19&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=SK%20Rohan%20Parveag&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Backend%20and%20AI%20Engineer&descAlignY=58&descSize=20&animation=twinkling" alt="SK Rohan Parveag - Software Developer, Backend and AI Engineer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/175587726?v=4" width="120" style="border-radius:50%" alt="avatar" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DevRohan33">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Developer+%40+Design+Intelligence+LLP;I+build+production+LLM+systems+that+don't+trust+the+prompt.;RAG+pipelines+%E2%80%A2+Tool-calling+agents+%E2%80%A2+MCP;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Developer+%40+Design+Intelligence+LLP;I+build+production+LLM+systems+that+never+blindly+trust+the+prompt;RAG+pipelines+%E2%80%A2+Tool-calling+agents+%E2%80%A2+MCP;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+AWS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -217,12 +221,12 @@ discover → filter → dedupe → summarize → publish
 </td>
 <td width="50%" valign="top">
 
-### 📒 [MyLedger](https://www.myledger.rohanparveag.online)
+### 📒 [RYBO](https://www.rybo.rohanparveag.in)
 **Wholesale ledger product**
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" /> <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws" />
 
-<img src="https://img.shields.io/badge/2%2C000%2B-bills%20processed-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-4%2B%20months-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/5%2C000%2B-bills%20processed-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Live-4%2B%20months-blue?style=for-the-badge" />
 
 - Replaced a distributor's paper notebook: stock at running average cost, per-buyer rates, dues, PDF invoices
 - Per-staff data isolation enforced in **Firestore security rules**, so no custom backend is needed
